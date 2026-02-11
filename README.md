@@ -4,22 +4,30 @@ LeetCode algorithm training notes for freshman CS programmer, focusing on **easy
 
 ## 📊 Training Repository Structure
 Classified by difficulty first, then by problem type (each problem has independent code file and idea note, to be filled in).
-- Easy/
-    Array/
-    String/
-    Linked-List/
-    Hash-Table/
-    Math/
-- Medium/
-    Array/
-    String/
-    Linked-List/
-    Hash-Table/
-    Two-Pointers/
-- Notes/
-    Algorithm-Basic.md
-    Problem-Solving-Tips.md
-    Time-Space-Complexity.md
+### Easy (Finished)
+1. [Two Sum](easy/two-sum/)
+2. [Palindrome Number](easy/palindrome-number/)
+3. [Roman to Integer](easy/roman-to-integer/)
+4. [Valid Parentheses](easy/valid-parentheses/)
+5. [Longest Common Prefix](easy/longest-common-prefix/)
+
+### Medium (To Be Completed)
+- Array/
+- String/
+- Linked-List/
+- Hash-Table/
+- Two-Pointers/
+  
+### Notes (To Be Added)
+- Algorithm-Basic.md
+- Problem-Solving-Tips.md
+- Time-Space-Complexity.md
+
+### Plan
+- 2~3 Easy problems per week
+- Understand core idea + time/space complexity
+- Build consistent coding & problem-solving habits
+- Current progress: 5 Easy problems completed (basic string/array/hash table types covered)
 
 ## 🎯 Training Objective
 - Master the basic algorithms and data structures (array, string, linked list, hash table, etc.);
