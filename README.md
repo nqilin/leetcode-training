@@ -27,8 +27,8 @@ Classified by difficulty first, then by problem type (each problem has independe
 - 2~3 Easy problems per week
 - Understand core idea + time/space complexity
 - Build consistent coding & problem-solving habits
-- Current progress: 5 Easy problems completed (basic string/array/hash table types covered)
-
+- Current progress: 8 Easy problems completed (basic string/array/hash table types covered)
+Two Sum | Palindrome Number | Roman to Integer | Valid Parentheses | Longest Common Prefix | Remove Duplicates from Sorted Array | Remove Element | Reverse Integer
 ## 🎯 Training Objective
 - Master the basic algorithms and data structures (array, string, linked list, hash table, etc.);
 - Cultivate algorithm thinking and problem-solving ability (analysis → design → coding → optimization);
