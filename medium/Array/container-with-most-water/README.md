@@ -22,6 +22,10 @@ Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,
    - If array length < 2: return 0 (no valid container)
    - If all elements are the same: area = element × (length-1)
 
+## 📁 Code Files
+- [Python Solution](container_with_most_water.py)
+- [C++ Solution](container_with_most_water.cpp)
+
 ## ⚡ Complexity Analysis
 - **Time Complexity (TC)**: O(n) - Traverse the array only once, each element is visited at most once
 - **Space Complexity (SC)**: O(1) - Only use constant extra space (pointers and max area variable)
