@@ -12,11 +12,11 @@ Classified by difficulty first, then by problem type (each problem has independe
 5. [Longest Common Prefix](easy/longest-common-prefix/)
 
 ### Medium (To Be Completed)
-- Array/
-- String/
-- Linked-List/
-- Hash-Table/
-- Two-Pointers/
+- Array/ (Target: 10 problems) ✅ 2 completed (Container With Most Water, 3Sum)
+- String/ (Target: 8 problems)
+- Linked-List/ (Target: 10 problems)
+- Hash-Table/ (Target: 8 problems)
+- Two-Pointers/ (Target: 10 problems)
   
 ### Notes (To Be Added)
 - Algorithm-Basic.md
