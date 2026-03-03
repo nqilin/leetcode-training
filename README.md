@@ -14,7 +14,7 @@ Classified by difficulty first, then by problem type (each problem has independe
 ### Medium (To Be Completed)
 - Array/ (Target: 10 problems) ✅ 2 completed (Container With Most Water, 3Sum)
 - String/ (Target: 8 problems) ✅ 1 completed (Longest Substring Without Repeating Characters)
-- Linked-List/ (Target: 10 problems)
+- Linked-List/ (Target: 10 problems) ✅ 1 completed (Add Two Numbers)
 - Hash-Table/ (Target: 8 problems)
 - Two-Pointers/ (Target: 10 problems)
   
