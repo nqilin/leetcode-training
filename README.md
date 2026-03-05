@@ -15,8 +15,8 @@ Classified by difficulty first, then by problem type (each problem has independe
 - Array/ (Target: 10 problems) ✅ 2 completed (Container With Most Water, 3Sum)
 - String/ (Target: 8 problems) ✅ 1 completed (Longest Substring Without Repeating Characters)
 - Linked-List/ (Target: 10 problems) ✅ 1 completed (Add Two Numbers)
-- Hash-Table/ (Target: 8 problems)
-- Two-Pointers/ (Target: 10 problems)
+- Hash-Table/ (Target: 8 problems) ✅ 1 completed (Group Anagrams)
+- Two-Pointers/ (Target: 10 problems) ✅ 1 completed (Two Sum II - Input Array Is Sorted)
   
 ### Notes (To Be Added)
 - Algorithm-Basic.md
