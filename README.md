@@ -12,7 +12,7 @@ Classified by difficulty first, then by problem type (each problem has independe
 5. [Longest Common Prefix](easy/longest-common-prefix/)
 
 ### Medium (To Be Completed)
-- Array/ (Target: 10 problems) ✅ 3 completed (Container With Most Water, 3Sum, Maximum Subarray)
+- Array/ (Target: 10 problems) ✅ 4 completed (Container With Most Water, 3Sum, Maximum Subarray, Sort Colors)
 - String/ (Target: 8 problems) ✅ 1 completed (Longest Substring Without Repeating Characters)
 - Linked-List/ (Target: 10 problems) ✅ 1 completed (Add Two Numbers)
 - Hash-Table/ (Target: 8 problems) ✅ 1 completed (Group Anagrams)
