@@ -14,7 +14,7 @@ Classified by difficulty first, then by problem type (each problem has independe
 ### Medium (To Be Completed)
 - Array/ (Target: 10 problems) ✅ 4 completed (Container With Most Water, 3Sum, Maximum Subarray, Sort Colors)
 - String/ (Target: 8 problems) ✅ 1 completed (Longest Substring Without Repeating Characters)
-- Linked-List/ (Target: 10 problems) ✅ 1 completed (Add Two Numbers)
+- Linked-List/ (Target: 10 problems) ✅ 2 completed (Add Two Numbers, Remove Nth Node From End of List)
 - Hash-Table/ (Target: 8 problems) ✅ 1 completed (Group Anagrams)
 - Two-Pointers/ (Target: 10 problems) ✅ 1 completed (Two Sum II - Input Array Is Sorted)
   
