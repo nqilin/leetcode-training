@@ -15,7 +15,7 @@ Classified by difficulty first, then by problem type (each problem has independe
 - Array/ (Target: 10 problems) ✅ 10 completed (Container With Most Water, 3Sum, Maximum Subarray, Sort Colors, Unique Paths, Maximum Product Subarray, Container With Most Water, Merge Intervals, Product of Array Except Self, Longest Consecutive Sequence)
 - String/ (Target: 8 problems) ✅ 8 completed (Longest Substring Without Repeating Characters, Integer to Roman, Find the Index of the First Occurrence in a String, Longest Palindromic Substring, Palindromic Substrings, Reverse Words in a String, Longest Substring Without Repeating Characters, Find All Anagrams in a String)
 - Linked-List/ (Target: 10 problems) ✅ 10 completed (Add Two Numbers, Remove Nth Node From End of List, Reverse Linked List, Linked List Cycle, Intersection of Two Linked Lists, Palindrome Linked List, Odd Even Linked List, Linked List Cycle II, Merge Two Sorted Lists, Sort List)
-- Hash-Table/ (Target: 8 problems) ✅ 3 completed (Group Anagrams, First Unique Character in a String, Ransom Note)
+- Hash-Table/ (Target: 8 problems) ✅ 4 completed (Group Anagrams, First Unique Character in a String, Ransom Note, Isomorphic Strings)
 - Two-Pointers/ (Target: 10 problems) ✅ 1 completed (Two Sum II - Input Array Is Sorted)
   
 ### Notes (To Be Added)
