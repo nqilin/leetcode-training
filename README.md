@@ -16,7 +16,7 @@ Classified by difficulty first, then by problem type (each problem has independe
 - String/ (Target: 8 problems) ✅ 8 completed (Longest Substring Without Repeating Characters, Integer to Roman, Find the Index of the First Occurrence in a String, Longest Palindromic Substring, Palindromic Substrings, Reverse Words in a String, Longest Substring Without Repeating Characters, Find All Anagrams in a String)
 - Linked-List/ (Target: 10 problems) ✅ 10 completed (Add Two Numbers, Remove Nth Node From End of List, Reverse Linked List, Linked List Cycle, Intersection of Two Linked Lists, Palindrome Linked List, Odd Even Linked List, Linked List Cycle II, Merge Two Sorted Lists, Sort List)
 - Hash-Table/ (Target: 8 problems) ✅ 8 completed (Group Anagrams, First Unique Character in a String, Ransom Note, Isomorphic Strings, Word Pattern, Valid Anagram, Intersection of Two Arrays, Contains Duplicate)
-- Two-Pointers/ (Target: 10 problems) ✅ 5 completed (Two Sum II - Input Array Is Sorted, Valid Palindrome, Remove Element, Reverse String, Move Zeroes)
+- Two-Pointers/ (Target: 10 problems) ✅ 6 completed (Two Sum II - Input Array Is Sorted, Valid Palindrome, Remove Element, Reverse String, Move Zeroes, Squares of a Sorted Array)
   
 ### Notes (To Be Added)
 - Algorithm-Basic.md
