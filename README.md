@@ -16,19 +16,13 @@ Classified by difficulty first, then by problem type (each problem has independe
 - String/ (Target: 8 problems) ✅ 8 completed (Longest Substring Without Repeating Characters, Integer to Roman, Find the Index of the First Occurrence in a String, Longest Palindromic Substring, Palindromic Substrings, Reverse Words in a String, Longest Substring Without Repeating Characters, Find All Anagrams in a String)
 - Linked-List/ (Target: 10 problems) ✅ 10 completed (Add Two Numbers, Remove Nth Node From End of List, Reverse Linked List, Linked List Cycle, Intersection of Two Linked Lists, Palindrome Linked List, Odd Even Linked List, Linked List Cycle II, Merge Two Sorted Lists, Sort List)
 - Hash-Table/ (Target: 8 problems) ✅ 8 completed (Group Anagrams, First Unique Character in a String, Ransom Note, Isomorphic Strings, Word Pattern, Valid Anagram, Intersection of Two Arrays, Contains Duplicate)
-- Two-Pointers/ (Target: 10 problems) ✅ 7 completed (Two Sum II - Input Array Is Sorted, Valid Palindrome, Remove Element, Reverse String, Move Zeroes, Squares of a Sorted Array, 4Sum)
+- Two-Pointers/ (Target: 10 problems) ✅ 10 completed (Two Sum II - Input Array Is Sorted, Valid Palindrome, Remove Element, Reverse String, Move Zeroes, Squares of a Sorted Array, 4Sum, Remove Duplicates from Sorted Array II, 3Sum Closest, Linked List Cycle II)
   
-### Notes (To Be Added)
-- Algorithm-Basic.md
-- Problem-Solving-Tips.md
-- Time-Space-Complexity.md
-
 ### Plan
 - 2~3 Easy problems per week
 - Understand core idea + time/space complexity
 - Build consistent coding & problem-solving habits
-- Current progress: 8 Easy problems completed (basic string/array/hash table types covered)
-Two Sum | Palindrome Number | Roman to Integer | Valid Parentheses | Longest Common Prefix | Remove Duplicates from Sorted Array | Remove Element | Reverse Integer
+
 ## 🎯 Training Objective
 - Master the basic algorithms and data structures (array, string, linked list, hash table, etc.);
 - Cultivate algorithm thinking and problem-solving ability (analysis → design → coding → optimization);
